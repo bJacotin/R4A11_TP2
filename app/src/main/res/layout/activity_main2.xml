@@ -11,13 +11,14 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="167dp"
-        android:layout_marginTop="361dp"
-        android:layout_marginEnd="186dp"
-        android:layout_marginBottom="351dp"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="118dp"
+        android:layout_marginBottom="604dp"
         android:text="Hello {nom} vous êtes né en {année}"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.358"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
