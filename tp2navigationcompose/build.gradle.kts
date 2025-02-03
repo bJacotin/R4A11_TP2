@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.tp2navigationcompose"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.tp2navigationcompose"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -48,6 +48,7 @@ android {
         }
     }
 }
+
 
 dependencies {
     implementation(libs.androidx.navigation.compose)
